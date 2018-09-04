@@ -1,0 +1,1 @@
+java -jar "C:\Users\henri\Documents\NetBeansProjects\Corretor\CorretorTrabalho1.jar" "java -jar 'C:\Users\henri\Documents\NetBeansProjects\LACompiler\src\javaapplication1\Main.java'" gcc "C:Users\henri\Desktop\testecompilador" "C:\Users\henri\Documents\NetBeansProjects\Casos_de_teste" "1,2,3" "sintatico"
